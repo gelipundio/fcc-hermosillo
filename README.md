@@ -10,3 +10,5 @@ git:mi-bg	- Marcos Bustamante	- marcos.gz18@gmail.com
 git:vanesadeneb	- Vanesa Villarreal	- vanessa.diesver@gmail.com
 
 git:FelicianoG - Feliciano Guirado - felicianogc@gmail.com
+
+git:juliagomezg - Julia Gómez - juliagomez19@gmail.com
